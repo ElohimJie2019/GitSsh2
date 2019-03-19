@@ -24,6 +24,8 @@
     view.frame = CGRectMake(100, 200, 200, 100);
     [self.view addSubview:view];
     self.view.backgroundColor = [UIColor greenColor];
+    
+    //3.9
 }
 
 
